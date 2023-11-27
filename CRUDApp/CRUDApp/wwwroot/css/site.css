@@ -1,0 +1,33 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+    
+body {
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 60px;
+}
+
+.welcome {
+    margin-top: 17%;
+}
+
+input {
+    margin: 0;
+}
+
+.search {
+    margin-top: 4%;
+    margin-right: 0;
+    
+}
